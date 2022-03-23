@@ -20,7 +20,9 @@
   },
   "homepage": "https://github.com/reinholz36/food-festival#readme",
   "devDependencies": {
+    "file-loader": "^6.2.0",
     "webpack": "^4.46.0",
+    "webpack-bundle-analyzer": "^4.5.0",
     "webpack-cli": "^4.6.0"
   },
   "dependencies": {
@@ -139,6 +141,7 @@
     "human-signals": "^2.1.0",
     "ieee754": "^1.2.1",
     "iferr": "^0.1.5",
+    "image-webpack-loader": "^8.1.0",
     "import-local": "^3.1.0",
     "imurmurhash": "^0.1.4",
     "infer-owner": "^1.0.4",
